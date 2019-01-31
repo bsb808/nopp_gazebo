@@ -2,7 +2,7 @@
 <launch>
 
   <!-- Initial USV location and attitude-->
-  <arg name="x" default="-995" />
+  <arg name="x" default="-220" />
   <arg name="y" default="0" />
   <arg name="z" default="-0.1" />
   <arg name="P" default="0" />
